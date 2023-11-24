@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Puedes cambiar el color de fondo según tu preferencia */
+}
+
+img {
+    width: 50%;
+    height: auto; /* Esto mantiene la proporción original de la imagen */
+    display: block;
+}
